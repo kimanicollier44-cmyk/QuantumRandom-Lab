@@ -1,4 +1,4 @@
-![QuantumRandom-Lab cover](assets/cover.png)
+![QuantumRandom-Lab cover](QuantumRandom-Lab%20cover.png)
 
 # QuantumRandom-Lab 🎲⚛️
 
